@@ -1,35 +1,49 @@
 # 👋 Hello, I'm Ayush Tambe
 
-I'm an aspiring ethical hacker and tech enthusiast, currently diving into the world of **Python development**, **cybersecurity**, and **artificial intelligence**. I believe in leveraging technology to solve real-world problems, and I'm on a journey to develop innovative solutions through coding and ethical hacking.
+I'm a passionate developer and technology enthusiast focused on **Web Development**, **AI Automation**, and **Artificial Intelligence**. I enjoy building practical solutions that solve real-world problems through coding, automation, and modern AI technologies.
 
 ---
 
 ## 🚀 Skills & Learning Path:
-- 🌱 **Currently Learning**: Python, C++, Ethical Hacking
-- 💻 **Languages**: C, Python, C++ 
-- 🔐 **Exploring**: Cybersecurity & Ethical Hacking
-- 🤖 **Future Goals**: Artificial Intelligence & Machine Learning
-- 🛠️ **Tools**: Git, GitHub, Kali Linux, Metasploit
+
+- 🌱 **Currently Learning**: JavaScript, React, FastAPI, AI Assistant Development
+- 💻 **Languages**: JavaScript, Python, C, C++
+- 🌐 **Web Development**: HTML, CSS, React, Tailwind CSS
+- 🤖 **AI & Automation**: OpenAI API, n8n, Prompt Engineering
+- 🛠️ **Tools**: Git, GitHub, VS Code, Cursor, Postman
+- 🗄️ **Exploring**: APIs, Databases, Supabase, RAG Systems
 
 ---
 
 ## 💡 Projects:
-I'm currently working on building Python-based projects and planning to dive into cybersecurity challenges. Stay tuned as I add new projects in the next few days! 
+
+### 🤖 AI-Powered Campus Chatbot
+Voice-enabled campus assistant built using FastAPI, FAISS, and AI models for intelligent information retrieval.
+
+### ⚡ n8n Smart Outreach Automation
+Automated workflow that enriches lead data using APIs, generates personalized emails with AI, and sends them automatically through Gmail.
+
+### 🍽️ DineWave – Restaurant Management Platform
+Restaurant management platform with responsive UI, Firebase integration, and multi-role functionality.
 
 ---
 
 ## 🎯 Goals:
-- Build a portfolio of Python and security tools
-- Participate in **bug bounty programs** and **hackathons**
-- Start **freelancing** in ethical hacking and coding
-- Explore AI and automation for tech-driven solutions
+
+- Become an AI Assistant Developer
+- Build intelligent automation systems and SaaS products
+- Master Full Stack Web Development
+- Create AI-powered tools that solve real business problems
+- Contribute to innovative AI and automation projects
 
 ---
 
 ## 🤝 Connect With Me:
-- **GitHub**: [Ayush Tambe](https://github.com/AyushT50)
 
+- **GitHub**: https://github.com/AyushT50
+- **LinkedIn**: https://www.linkedin.com/in/ayush-tambe-5497693a0/
+- **Portfolio**: https://mywork-space.netlify.app/
 
 ---
 
-🌟 **Fun Fact**: I love solving complex problems with simple code and learning from challenges every day!
+🌟 **Fun Fact**: I love building systems that automate repetitive work and exploring how AI can help people work smarter and faster.
